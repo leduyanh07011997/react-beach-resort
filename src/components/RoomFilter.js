@@ -15,7 +15,6 @@ export default function RoomFilter({rooms}) {
         price, 
         minPrice,
         maxPrice,
-        size,
         minSize,
         maxSize,
         breakfast,
