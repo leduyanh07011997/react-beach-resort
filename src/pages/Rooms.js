@@ -1,6 +1,7 @@
 import React from 'react'
 import Hero from '../components/Hero'
 import Banner from '../components/Banner'
+import { RoomProvider } from '../context';
 import {Link} from 'react-router-dom'
 import RoomContainer from '../components/RoomContainer'
 const Rooms = () => {
